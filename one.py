@@ -1,4 +1,4 @@
 def print_hi():
-    print('Hi')
+    print('Hi, im learning git')
 
 
